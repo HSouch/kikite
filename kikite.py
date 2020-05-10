@@ -2,8 +2,7 @@
 
 import kikite as kk
 
-
-test_filename = "/home/harrison/Music/Reeder - A Quiet Place.mp3"
+test_filename = "test_data/test.mp3"
 
 
 
